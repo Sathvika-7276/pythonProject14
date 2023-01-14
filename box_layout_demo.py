@@ -1,3 +1,9 @@
+"""
+CP1404 Practical
+GUI program to make an app that lets the user enter and clear their name, and greets them when
+a button is pressed.
+"""
+
 from kivy.app import App
 from kivy.lang import Builder
 
